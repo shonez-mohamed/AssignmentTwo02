@@ -34,6 +34,18 @@ namespace AssignmentTwo
             // float res = x + y;
             // Console.WriteLine(res);
             // Result : it's run and print =>  61
+           // float res1 = x - y;
+           // Console.WriteLine(res1);
+           // Result : it's run and print =>  -20
+           // float res2 = x / y;
+           // Console.WriteLine(res2);
+            //Result: it's run and print =>  0.50617284
+           // float res3 = x * y;
+           // Console.WriteLine(res3);
+            //Result: it's run and print =>  830.25
+           // float res4 = x % y;
+           // Console.WriteLine(res4);
+            //Result: it's run and print =>  20.5
             //Point P1 = new Point() { x = 3.5f, y = 6.8f };
             //float res1 = P1.x + P1.y; 
             //Console.WriteLine(res1);
